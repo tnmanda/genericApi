@@ -1,0 +1,8 @@
+C:\Users\amanda\Documents\generic-api\api\Helper\bin\Debug\netcoreapp2.2\Helper.deps.json
+C:\Users\amanda\Documents\generic-api\api\Helper\bin\Debug\netcoreapp2.2\Helper.dll
+C:\Users\amanda\Documents\generic-api\api\Helper\bin\Debug\netcoreapp2.2\Helper.pdb
+C:\Users\amanda\Documents\generic-api\api\Helper\obj\Debug\netcoreapp2.2\Helper.csproj.CoreCompileInputs.cache
+C:\Users\amanda\Documents\generic-api\api\Helper\obj\Debug\netcoreapp2.2\Helper.AssemblyInfoInputs.cache
+C:\Users\amanda\Documents\generic-api\api\Helper\obj\Debug\netcoreapp2.2\Helper.AssemblyInfo.cs
+C:\Users\amanda\Documents\generic-api\api\Helper\obj\Debug\netcoreapp2.2\Helper.dll
+C:\Users\amanda\Documents\generic-api\api\Helper\obj\Debug\netcoreapp2.2\Helper.pdb

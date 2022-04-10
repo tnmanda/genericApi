@@ -1,0 +1,8 @@
+C:\Users\amanda\Documents\generic-api\api\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.deps.json
+C:\Users\amanda\Documents\generic-api\api\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.dll
+C:\Users\amanda\Documents\generic-api\api\Api.Data\bin\Debug\netcoreapp2.2\Api.Data.pdb
+C:\Users\amanda\Documents\generic-api\api\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.csproj.CoreCompileInputs.cache
+C:\Users\amanda\Documents\generic-api\api\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.AssemblyInfoInputs.cache
+C:\Users\amanda\Documents\generic-api\api\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.AssemblyInfo.cs
+C:\Users\amanda\Documents\generic-api\api\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.dll
+C:\Users\amanda\Documents\generic-api\api\Api.Data\obj\Debug\netcoreapp2.2\Api.Data.pdb

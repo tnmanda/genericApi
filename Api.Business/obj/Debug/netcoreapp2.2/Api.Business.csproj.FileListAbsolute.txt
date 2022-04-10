@@ -1,0 +1,15 @@
+C:\Users\amanda\Documents\generic-api\api\Api.Business\bin\Debug\netcoreapp2.2\SQL\Forex.sql
+C:\Users\amanda\Documents\generic-api\api\Api.Business\bin\Debug\netcoreapp2.2\Api.Business.deps.json
+C:\Users\amanda\Documents\generic-api\api\Api.Business\bin\Debug\netcoreapp2.2\Api.Business.dll
+C:\Users\amanda\Documents\generic-api\api\Api.Business\bin\Debug\netcoreapp2.2\Api.Business.pdb
+C:\Users\amanda\Documents\generic-api\api\Api.Business\bin\Debug\netcoreapp2.2\Api.Data.dll
+C:\Users\amanda\Documents\generic-api\api\Api.Business\bin\Debug\netcoreapp2.2\Newtonsoft.Json.dll
+C:\Users\amanda\Documents\generic-api\api\Api.Business\bin\Debug\netcoreapp2.2\Api.Data.pdb
+C:\Users\amanda\Documents\generic-api\api\Api.Business\bin\Debug\netcoreapp2.2\Newtonsoft.Json.xml
+C:\Users\amanda\Documents\generic-api\api\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.csprojAssemblyReference.cache
+C:\Users\amanda\Documents\generic-api\api\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.csproj.CoreCompileInputs.cache
+C:\Users\amanda\Documents\generic-api\api\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.AssemblyInfoInputs.cache
+C:\Users\amanda\Documents\generic-api\api\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.AssemblyInfo.cs
+C:\Users\amanda\Documents\generic-api\api\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.csproj.CopyComplete
+C:\Users\amanda\Documents\generic-api\api\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.dll
+C:\Users\amanda\Documents\generic-api\api\Api.Business\obj\Debug\netcoreapp2.2\Api.Business.pdb
